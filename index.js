@@ -5,3 +5,15 @@ array.push( `${musicians[i]} plays ${instruments[i]}`)
 }
   return array
 }
+ 
+function johnLennonFacts (facts) {
+const facts = ["he is great",
+"he is superb",
+"he likes to eat"
+];
+let i=0
+while (i < facts.length) {
+  facts.push (!!!)
+}
+return facts
+ }
