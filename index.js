@@ -14,6 +14,7 @@ const facts = ["he is great",
 let i=0
 while (i < facts.length) {
   facts.push (`${facts[i]}!!!`)
+  i++
 }
 return facts
  }
