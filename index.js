@@ -7,11 +7,13 @@ array.push( `${musicians[i]} plays ${instruments[i]}`)
 }
 
 function johnLennonFacts (facts) {
-const facts = [];
+const funfacts {
+  
+}facts = [];
 let i=0
 while (i < facts.length) {
-  facts.push (`${facts[i]}!!!`)
+  funfacts.push (`${facts[i]}!!!`)
   i++
 }
-return facts
+return funfacts
  }
